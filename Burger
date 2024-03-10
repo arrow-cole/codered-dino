@@ -1,0 +1,25 @@
+// Dino class
+class Dino {
+    String name;
+
+    // Constructor
+    public Dino(String name) {
+        this.name = name;
+    }
+
+    // Method to eat a hamburger
+    public void eatHamburger() {
+        System.out.println(name + " is happy while eating a hamburger!");
+    }
+}
+
+// Main class
+public class Main {
+    public static void main(String[] args) {
+        // Create a Dino object
+        Dino dino = new Dino("Dino");
+
+        // Call eatHamburger method
+        dino.eatHamburger();
+    }
+}
