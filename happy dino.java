@@ -1,4 +1,4 @@
-if CheeseBurger == in Tummy then dino == happy;
-  if no cheeseBurger == in tummy then dino == Mad;
+if cheeseburger == inTummy then dino == happy;
+ Else dino == Mad;
 
   
