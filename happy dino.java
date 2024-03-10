@@ -1,4 +1,4 @@
-String cheeseburger = " ";
-Boolean inTummy = 
-if cheeseburger == inTummy then dino == happy;
- else dino == mad;
+String dino = "Dr Dino";
+Boolean cheeseburgerInTummy = false;
+if cheeseburgerInTummy = true then dino.equals("happy");
+ else dino.equals("mad");
